@@ -1,0 +1,16 @@
+C:\Users\coolg\source\repos\Youtube Downloader\Youtube Downloader\bin\Release\netcoreapp3.1\Youtube Downloader.exe
+C:\Users\coolg\source\repos\Youtube Downloader\Youtube Downloader\bin\Release\netcoreapp3.1\Youtube Downloader.deps.json
+C:\Users\coolg\source\repos\Youtube Downloader\Youtube Downloader\bin\Release\netcoreapp3.1\Youtube Downloader.runtimeconfig.json
+C:\Users\coolg\source\repos\Youtube Downloader\Youtube Downloader\bin\Release\netcoreapp3.1\Youtube Downloader.runtimeconfig.dev.json
+C:\Users\coolg\source\repos\Youtube Downloader\Youtube Downloader\bin\Release\netcoreapp3.1\Youtube Downloader.dll
+C:\Users\coolg\source\repos\Youtube Downloader\Youtube Downloader\bin\Release\netcoreapp3.1\Youtube Downloader.pdb
+C:\Users\coolg\source\repos\Youtube Downloader\Youtube Downloader\obj\Release\netcoreapp3.1\Youtube Downloader.csprojAssemblyReference.cache
+C:\Users\coolg\source\repos\Youtube Downloader\Youtube Downloader\obj\Release\netcoreapp3.1\Youtube_Downloader.Form1.resources
+C:\Users\coolg\source\repos\Youtube Downloader\Youtube Downloader\obj\Release\netcoreapp3.1\Youtube Downloader.csproj.GenerateResource.cache
+C:\Users\coolg\source\repos\Youtube Downloader\Youtube Downloader\obj\Release\netcoreapp3.1\Youtube Downloader.AssemblyInfoInputs.cache
+C:\Users\coolg\source\repos\Youtube Downloader\Youtube Downloader\obj\Release\netcoreapp3.1\Youtube Downloader.AssemblyInfo.cs
+C:\Users\coolg\source\repos\Youtube Downloader\Youtube Downloader\obj\Release\netcoreapp3.1\Youtube Downloader.csproj.CoreCompileInputs.cache
+C:\Users\coolg\source\repos\Youtube Downloader\Youtube Downloader\obj\Release\netcoreapp3.1\Youtube Downloader.dll
+C:\Users\coolg\source\repos\Youtube Downloader\Youtube Downloader\obj\Release\netcoreapp3.1\Youtube Downloader.pdb
+C:\Users\coolg\source\repos\Youtube Downloader\Youtube Downloader\obj\Release\netcoreapp3.1\Youtube Downloader.genruntimeconfig.cache
+C:\Users\coolg\source\repos\Youtube Downloader\Youtube Downloader\obj\Release\netcoreapp3.1\Youtube_Downloader.Properties.Resources.resources
